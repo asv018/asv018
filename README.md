@@ -1,9 +1,10 @@
-Hi 👋 My name is Arpit Singh Verma
+Hi 👋 My name is Arpit Singh Verma 
 ==================================
 
 Web Developer and Competitive Programmer.
 -----------------------------------------
 
+Currently pursuing my bachelor's degree in Computer Science and Engineering from NIT - Hamirpur.
 Currently working on Flutter development and learning React.js. Competitive programming Enthusiast.
 
 * 🌍  I'm based in Mandi , Himachal - Pradesh.

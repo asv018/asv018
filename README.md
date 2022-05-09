@@ -1,5 +1,5 @@
 Hi 👋 My name is Arpit Singh Verma 
-================================== Competitive Programmer =============================
+ Competitive Programmer 
 
 
 -----------------------------------------

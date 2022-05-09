@@ -1,16 +1,16 @@
 Hi 👋 My name is Arpit Singh Verma 
-==================================
+================================== Competitive Programmer =============================
 
-Web Developer and Competitive Programmer.
+
 -----------------------------------------
+
 
 Currently pursuing my bachelor's degree in Computer Science and Engineering from NIT - Hamirpur.
 Currently working on Flutter development and learning React.js. Competitive programming Enthusiast.
 
 * 🌍  I'm based in Mandi , Himachal - Pradesh.
 * ✉️  You can contact me at [cse1411shiv@gmail,com](mailto:cse1411shiv@gmail,com)
-* 🧠  I'm learning React.js and Node.js
-* 🤝  I'm open to collaborating on Interesting in Open Source Projects about WEB-D and Flutter Development.
+
 * ⚡  Shiva
 
 ### Skills

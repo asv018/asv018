@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=asv018)
 Hi 👋 My name is Arpit Singh Verma 
  Competitive Programmer 
-![](https://komarev.com/ghpvc/?username=asv018)
+
 
 -----------------------------------------
 
